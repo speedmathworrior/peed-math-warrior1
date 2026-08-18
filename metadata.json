@@ -1,0 +1,6 @@
+{
+  "name": "Speed Math Warrior",
+  "description": "Speed Math Warrior - Mental math practice app for Indian competitive exam aspirants (SSC, IBPS, Banking, Railways) with speed drills, Vedic math, mistake vault, and local battle mode.",
+  "requestFramePermissions": [],
+  "meajorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
